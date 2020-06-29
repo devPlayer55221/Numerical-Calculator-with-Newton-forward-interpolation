@@ -1,3 +1,4 @@
+```
 from tkinter import*
 
 cal=Tk()
@@ -134,3 +135,4 @@ e4=Entry(cal,bd=10,textvariable=ment4).grid(row=13,column=2)
 b4=Button(cal,padx=8,pady=6,fg='yellow',font=('Ubuntu',14,'bold'),text="Set&Go",command=btnStore2,bg='brown').grid(row=13,column=3)
 
 cal.mainloop()
+```
